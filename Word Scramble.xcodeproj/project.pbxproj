@@ -13,6 +13,7 @@
 		D0C502B82A9E05E700ACC721 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0C502B62A9E05E700ACC721 /* Main.storyboard */; };
 		D0C502BA2A9E05E800ACC721 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0C502B92A9E05E800ACC721 /* Assets.xcassets */; };
 		D0C502BD2A9E05E800ACC721 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0C502BB2A9E05E800ACC721 /* LaunchScreen.storyboard */; };
+		D0C502C52A9E08E800ACC721 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = D0C502C42A9E08E800ACC721 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D0C502B92A9E05E800ACC721 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0C502BC2A9E05E800ACC721 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0C502BE2A9E05E800ACC721 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0C502C42A9E08E800ACC721 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				D0C502B62A9E05E700ACC721 /* Main.storyboard */,
 				D0C502B92A9E05E800ACC721 /* Assets.xcassets */,
 				D0C502BB2A9E05E800ACC721 /* LaunchScreen.storyboard */,
+				D0C502C42A9E08E800ACC721 /* start.txt */,
 				D0C502BE2A9E05E800ACC721 /* Info.plist */,
 			);
 			path = "Word Scramble";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0C502BD2A9E05E800ACC721 /* LaunchScreen.storyboard in Resources */,
+				D0C502C52A9E08E800ACC721 /* start.txt in Resources */,
 				D0C502BA2A9E05E800ACC721 /* Assets.xcassets in Resources */,
 				D0C502B82A9E05E700ACC721 /* Main.storyboard in Resources */,
 			);
